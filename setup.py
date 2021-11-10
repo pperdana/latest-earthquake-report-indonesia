@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="realtime-earthquake-indonesia",
-    version="0.0.1",
+    version="0.0.2",
     author="Panji Perdana",
     author_email="panji9502@gmail.com",
     description="This package inform the latest earthquake in Indonesia from BMKG | Meteorological, Climatological, and Geophysical Agency.",
